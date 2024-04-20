@@ -1,0 +1,84 @@
+.Weather .form-control {
+  background: #f6f4eb;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 15px 20px;
+  outline-color: #4682a9;
+}
+
+.Weather .btn {
+  background: #4682a9;
+  padding: 15px 30px;
+  border: none;
+  font-size: 16px;
+  margin-left: 5px;
+  border-radius: 6px;
+  color: #ffffff;
+}
+
+.Weather .btn:hover {
+  background-color: #f6f4eb;
+  color: #4682a9;
+  border: solid 2px #4682a9;
+}
+
+.Weather h1 {
+  color: #4682a9;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.Weather ul {
+  padding: 0;
+}
+
+.Weather li {
+  color: rgba(39, 33, 66, 0.7);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  list-style: none;
+}
+
+.Weather .weatherToday-overview {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Weather .weatherToday {
+  padding-left: 15px;
+  display: flex;
+}
+
+.Weather .weatherToday-temperature {
+  font-size: 65px;
+  padding-left: 10px;
+}
+
+.Weather .weatherToday-icon {
+  padding-top: 20px;
+}
+
+.Weather .weatherToday-unit {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.Weather footer {
+  border-top: 1px solid #f6f4eb;
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.Weather footer a {
+  color: #4682a9;
+  text-decoration: none;
+}
+
+.Weather footer a:hover {
+  text-decoration: underline;
+}
