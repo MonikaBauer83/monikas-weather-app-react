@@ -44,6 +44,7 @@
 .Weather .weatherToday-overview {
   border-top: 1px solid #f6f4eb;
   margin-top: 20px;
+  padding-top: 20px;
   display: flex;
   justify-content: space-between;
 }
