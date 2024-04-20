@@ -75,7 +75,7 @@ export default function Weather(props) {
           </a>
           , is{" "}
           <a
-            href="https://github.com/MonikaBauer83?tab=repositories"
+            href="https://github.com/MonikaBauer83/monikas-weather-app-react"
             target="_blank"
             rel="noopener noreferrer"
           >
